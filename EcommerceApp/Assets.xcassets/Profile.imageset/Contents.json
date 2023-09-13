@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "michael-dam-mEZ3PoFGs_k-unsplash.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "michael-dam-mEZ3PoFGs_k-unsplash 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "michael-dam-mEZ3PoFGs_k-unsplash 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
