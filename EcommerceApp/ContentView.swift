@@ -11,11 +11,14 @@ struct ContentView: View {
                 
                 SearchBar()
                 
-                Banner()
+                ScrollView {
+                    Banner()
+                    
+                    Categories()
+                    
+                    ProductList()
+                }
                 
-                Categories()
-                
-                Text("Product List").padding()
                 Spacer()
                 Text("Bottom Menu")
             }
@@ -28,5 +31,6 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
 
 
